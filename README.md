@@ -34,20 +34,6 @@ I'm a passionate **Software Engineer** with a strong background in **Full-Stack 
   - Software Engineering
   - Problem Solving
 
-## 💼 Featured Projects
-
-[هنا يمكنك إضافة مشاريعك المميزة مع روابطها ووصف مختصر لكل مشروع، مثل المثال التالي]:
-
-### [Project Title 1](https://www.google.com/search?q=https://project-link-1.com)
-
-A brief description of the project, highlighting the technologies used and its key features.
-
-### [Project Title 2](https://www.google.com/search?q=https://project-link-2.com)
-
-Another brief description of a different project.
-
-Check out more of my work on my [GitHub profile](https://www.google.com/search?q=https://github.com/your-username).
-
 ## Contact Me
 
   - 📞 Phone: +20 1102288635
