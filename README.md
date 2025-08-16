@@ -11,26 +11,23 @@ I'm a passionate **Software Engineer** with a strong background in **Full-Stack 
 
 ## 🛠 Tech Stack & Skills
 
-### Full-Stack Development:
+**### Full-Stack Development:**
 
--Languages & Frameworks:
+**-Languages & Frameworks:**
 
 HTML5 | CSS3 | JavaScript (ES6+) | React.js | Tailwind CSS | Bootstrap | SASS | C# | SQL | Entity Framework | 
 
--Tools & Libraries:
+**-Tools & Libraries:**
 
 Framer Motion | Git & GitHub | Visual Studio Code | Visual Studio | SQL Server Mangment Studio 21 (SSMS) 
 
--Data Analysis:
-
+**-Data Analysis:**
 Python (Pandas, NumPy, Matplotlib) | Excel & Google Sheets | Data Cleaning & Visualization | Currently learning SQL & Power BI
 
--Core Strengths:
-
+**-Core Strengths:**
 Front-End Development | Responsive Design | UI Animations & Interactivity | Exploratory Data Analysis | Version Control]
 
-### Key Expertise:
-
+**### Key Expertise:**
 -   **Software Engineering for Financial Services**: Specialized in developing high-performance software solutions for the trading industry at ORCA TRADING.
   
 -   **Data-Driven Decision Making**: Using data analysis to inform and improve technical and business strategies.
@@ -39,8 +36,7 @@ Front-End Development | Responsive Design | UI Animations & Interactivity | Expl
    
 -   **Problem Solving**: Creating innovative solutions to technical challenges.
 
-## Contact Me
-
+**## Contact Me**
   - 📞 Phone: +201023981292
   - 📧 Email: [swe.mo.shrifa@gmail.com]
   - 🔗 [LinkedIn:(www.linkedin.com/in/mahmoud-shrifa)]
