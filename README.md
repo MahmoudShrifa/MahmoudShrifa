@@ -43,7 +43,7 @@ Front-End Development | Responsive Design | UI Animations & Interactivity | Expl
 
   - 📞 Phone: +201023981292
   - 📧 Email: [swe.mo.shrifa@gmail.com]
-  - 🔗 [LinkedIn: Connect with me](www.linkedin.com/in/mahmoud-shrifa)
+  - 🔗 [LinkedIn:(www.linkedin.com/in/mahmoud-shrifa)]
 
 I am open to new opportunities and collaborations. Let's connect\!
 
