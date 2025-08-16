@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a7d49015-5ac2-40fe-b96a-a779bb6ae614" />
 
 ## Mahmoud Sherifa
 
