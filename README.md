@@ -1,4 +1,4 @@
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a7d49015-5ac2-40fe-b96a-a779bb6ae614" />
 
 ## Mahmoud Sherifa
 
@@ -14,31 +14,30 @@ I'm a passionate **Software Engineer** with a strong background in **Full-Stack 
 
 ### Full-Stack Development:
 
-  - Frontend: HTML | CSS | JavaScript | [Add other frontend frameworks you use, e.g., React, Vue, Angular]
-  - Backend: [Add backend languages/frameworks, e.g., Node.js, Python/Django, PHP/Laravel]
-  - Databases: [Add databases you work with, e.g., SQL, MongoDB]
+-Languages & Frameworks:
+HTML5 | CSS3 | JavaScript (ES6+) | React.js | Tailwind CSS | Bootstrap | SASS | C# | SQL | Entity Framework | 
 
-### Data Analysis:
+-Tools & Libraries:
+Framer Motion | Git & GitHub | Visual Studio Code | Visual Studio | SQL Server Mangment Studio 21 (SSMS) 
 
-  - Libraries: [Add libraries like Pandas, NumPy, Scikit-learn]
-  - Tools: [Add tools like Jupyter Notebooks, Tableau, Power BI]
+-Data Analysis:
+Python (Pandas, NumPy, Matplotlib) | Excel & Google Sheets | Data Cleaning & Visualization | Currently learning SQL & Power BI
 
-### Tools & Platforms:
-
-  - Git | GitHub | [Add other tools like Docker, AWS]
+-Core Strengths:
+Front-End Development | Responsive Design | UI Animations & Interactivity | Exploratory Data Analysis | Version Control]
 
 ### Key Expertise:
 
-  - Full-Stack Web Development
-  - Data Analysis & Visualization
-  - Software Engineering
-  - Problem Solving
+-   **Software Engineering for Financial Services**: Specialized in developing high-performance software solutions for the trading industry at ORCA TRADING.
+-   **Data-Driven Decision Making**: Using data analysis to inform and improve technical and business strategies.
+-   **Full-Stack Development**: Building end-to-end applications to meet various business requirements.
+-   **Problem Solving**: Creating innovative solutions to technical challenges.
 
 ## Contact Me
 
-  - 📞 Phone: +20 1102288635
-  - 📧 Email: [mahmoudshrifa408@gmail.com]
-  - 🔗 [LinkedIn: Connect with me](https://www.linkedin.com/in/mahmoud-shrifa-223b6b244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  - 📞 Phone: +201023981292
+  - 📧 Email: [swe.mo.shrifa@gmail.com]
+  - 🔗 [LinkedIn: Connect with me](www.linkedin.com/in/mahmoud-shrifa)
 
 I am open to new opportunities and collaborations. Let's connect\!
 
