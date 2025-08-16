@@ -22,9 +22,11 @@ HTML5 | CSS3 | JavaScript (ES6+) | React.js | Tailwind CSS | Bootstrap | SASS | 
 Framer Motion | Git & GitHub | Visual Studio Code | Visual Studio | SQL Server Mangment Studio 21 (SSMS) 
 
 **-Data Analysis:**
+
 Python (Pandas, NumPy, Matplotlib) | Excel & Google Sheets | Data Cleaning & Visualization | Currently learning SQL & Power BI
 
 **-Core Strengths:**
+
 Front-End Development | Responsive Design | UI Animations & Interactivity | Exploratory Data Analysis | Version Control]
 
 **Key Expertise:**
