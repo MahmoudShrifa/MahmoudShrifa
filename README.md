@@ -41,9 +41,9 @@ Front-End Development | Responsive Design | UI Animations & Interactivity | Expl
   - 📧 Email: [swe.mo.shrifa@gmail.com]
   - 🔗 [LinkedIn:(www.linkedin.com/in/mahmoud-shrifa)]
 
-I am open to new opportunities and collaborations. Let's connect\!
 
 -----
-
+                                                                                   ** Thanks for visiting my profile**
+                                                                    **I am open to new opportunities and collaborations. Let's connect\!**
 -----
 
