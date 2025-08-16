@@ -43,7 +43,6 @@ Front-End Development | Responsive Design | UI Animations & Interactivity | Expl
 
 
 -----
-                                                                                   ** Thanks for visiting my profile**
-                                                                    **I am open to new opportunities and collaborations. Let's connect\!**
+  💡**I am open to new opportunities and collaborations. Let's connect\!**
 -----
 
