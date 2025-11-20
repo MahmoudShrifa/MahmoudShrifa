@@ -1,7 +1,7 @@
 
 ## I`m Mahmoud Sherifa
 
-### Full-Stack Developer | Data Analyst | Software Engineer
+### Back-End .NET Developer 
 
 ## About Me
 
@@ -11,7 +11,7 @@ I'm a passionate **Software Engineer** with a strong background in **Full-Stack 
 
 ## 🛠 Tech Stack & Skills
 
-**Full-Stack Development:**
+**Back-End  Development:**
 
 **-Languages & Frameworks:**
 
